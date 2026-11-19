@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------
+Last Name: Soliva
+Student ID: TUPM-26-4154
+Seed Digit: 4
+ID Sum: 22
+Verification Value: 136
+Dataset Sample Size: 72
+Valid Records: 72
+Average Global Active Power: 4.044
+CSV File: Soliva_TUPM-26-4154_record.csv
+Backup File: Soliva_TUPM-26-4154_record.csv

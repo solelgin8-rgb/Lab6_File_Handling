@@ -1,0 +1,5 @@
+Student: Soliva
+Student ID: TUPM-26-4154
+Seed digit: 4
+ID sum: 22
+Verification value: 136
