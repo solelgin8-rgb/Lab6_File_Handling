@@ -1,0 +1,62 @@
+[
+    {
+        "Country": "Germany",
+        "Year": "2019",
+        "Attack Type": "Phishing",
+        "Target Industry": "Healthcare",
+        "Financial Loss (in Million $)": "99.97",
+        "Number of Affected Users": "950451",
+        "Attack Source": "Hacker Group",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "29"
+    },
+    {
+        "Country": "Russia",
+        "Year": "2019",
+        "Attack Type": "Man-in-the-Middle",
+        "Target Industry": "Retail",
+        "Financial Loss (in Million $)": "99.53",
+        "Number of Affected Users": "515797",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Social Engineering",
+        "Defense Mechanism Used": "Firewall",
+        "Incident Resolution Time (in Hours)": "46"
+    },
+    {
+        "Country": "UK",
+        "Year": "2019",
+        "Attack Type": "Phishing",
+        "Target Industry": "Education",
+        "Financial Loss (in Million $)": "99.45",
+        "Number of Affected Users": "467349",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Zero-day",
+        "Defense Mechanism Used": "Firewall",
+        "Incident Resolution Time (in Hours)": "44"
+    },
+    {
+        "Country": "Germany",
+        "Year": "2019",
+        "Attack Type": "Ransomware",
+        "Target Industry": "Government",
+        "Financial Loss (in Million $)": "99.3",
+        "Number of Affected Users": "257068",
+        "Attack Source": "Hacker Group",
+        "Security Vulnerability Type": "Social Engineering",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "17"
+    },
+    {
+        "Country": "Australia",
+        "Year": "2019",
+        "Attack Type": "SQL Injection",
+        "Target Industry": "Government",
+        "Financial Loss (in Million $)": "99.2",
+        "Number of Affected Users": "605470",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Unpatched Software",
+        "Defense Mechanism Used": "Encryption",
+        "Incident Resolution Time (in Hours)": "18"
+    }
+]

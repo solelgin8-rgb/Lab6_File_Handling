@@ -1,0 +1,12 @@
+{
+    "student_id": "TUPM-26-4154",
+    "operating_system": "Android",
+    "user_behavior_class": 5,
+    "total_records": 700,
+    "os_matching_records": 554,
+    "selected_records": 105,
+    "exported_row_count": 105,
+    "count_verified": true,
+    "average_battery_drain_mah_day": 2693.06,
+    "average_data_usage_mb_day": 1984.77
+}
